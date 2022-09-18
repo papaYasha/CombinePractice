@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F41EFA928D70BD8002A7B1A /* EmptyPublisher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F41EFA828D70BD8002A7B1A /* EmptyPublisher.swift */; };
 		841B7E4628D34C59006F0B74 /* MysteryCombineApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 841B7E4528D34C59006F0B74 /* MysteryCombineApp.swift */; };
 		841B7E4828D34C59006F0B74 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 841B7E4728D34C59006F0B74 /* ContentView.swift */; };
 		841B7E4A28D34C5B006F0B74 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 841B7E4928D34C5B006F0B74 /* Assets.xcassets */; };
@@ -23,6 +24,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3F41EFA828D70BD8002A7B1A /* EmptyPublisher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmptyPublisher.swift; sourceTree = "<group>"; };
 		841B7E4228D34C59006F0B74 /* MysteryCombine.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MysteryCombine.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		841B7E4528D34C59006F0B74 /* MysteryCombineApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MysteryCombineApp.swift; sourceTree = "<group>"; };
 		841B7E4728D34C59006F0B74 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -82,6 +84,7 @@
 				841B7E6128D4AB36006F0B74 /* MultipleCancelling.swift */,
 				841B7E6328D604B9006F0B74 /* LimitCharacter.swift */,
 				841B7E6528D60E56006F0B74 /* CurrentValueSubjectEx1.swift */,
+				3F41EFA828D70BD8002A7B1A /* EmptyPublisher.swift */,
 			);
 			path = MysteryCombine;
 			sourceTree = "<group>";
@@ -168,6 +171,7 @@
 				841B7E6428D604B9006F0B74 /* LimitCharacter.swift in Sources */,
 				841B7E5E28D490C7006F0B74 /* Cancellable.swift in Sources */,
 				841B7E5C28D4757A006F0B74 /* AmpersandAndDollarSign.swift in Sources */,
+				3F41EFA928D70BD8002A7B1A /* EmptyPublisher.swift in Sources */,
 				841B7E6628D60E57006F0B74 /* CurrentValueSubjectEx1.swift in Sources */,
 				841B7E5A28D46ADA006F0B74 /* CombinePractice1.swift in Sources */,
 				841B7E6028D49FA2006F0B74 /* LongRunningProcess.swift in Sources */,
